@@ -1,4 +1,4 @@
---- Oveview ---
+--- Overview ---
 This project was developed as part of a Computer Science course, specifically focusing on implementing the Model-View-Controller (MVC) architecture in PHP, integrating MongoDB for database management, and incorporating JavaScript for dynamic functionality.
 
 --- Features --- 
